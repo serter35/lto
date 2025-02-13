@@ -1,0 +1,23 @@
+<?php
+
+namespace {{namespace}};
+
+use SerterSerbest\LTO\BaseDTO;
+use SerterSerbest\\LaravelDTO\Concerns\Validatable;
+
+class DummyClass extends BaseDTO
+{
+    use Validatable;
+
+    public function __construct()
+    {
+        //
+    }
+
+    public function getValidationRules(): array
+    {
+        return [
+
+        ];
+    }
+}

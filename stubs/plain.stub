@@ -1,0 +1,13 @@
+<?php
+
+namespace {{namespace}};
+
+use SerterSerbest\LTO\BaseDTO;
+
+class DummyClass extends BaseDTO
+{
+    public function __construct()
+    {
+        //
+    }
+}
