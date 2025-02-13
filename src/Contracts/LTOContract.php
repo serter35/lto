@@ -7,9 +7,6 @@ use Illuminate\Database\Eloquent\Model;
 use Illuminate\Http\Request;
 use Illuminate\Support\Collection;
 
-/**
- * @mixin Collection
- */
 interface LTOContract
 {
     /**
