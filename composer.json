@@ -3,7 +3,8 @@
     "version": "1.0.0",
     "description": "DTO package for Laravel.",
     "type": "library",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
+    "prefer-stable": true,
     "license": "MIT",
     "keywords": ["laravel", "dto", "Data Transfer Object"],
     "authors": [
