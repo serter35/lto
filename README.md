@@ -19,6 +19,16 @@ By leveraging DTOs, you can enforce a consistent data structure, prevent unexpec
 
 ---
 
+## Installation
+
+You can install LTO via Composer:
+
+```sh
+composer require serter35/lto
+```
+
+LTO supports **Laravel 10** and **Laravel 11** and requires **PHP 8.2** or **higher**.
+
 ## Quick Start
 
 First, create a DTO class:

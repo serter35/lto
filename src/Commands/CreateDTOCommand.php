@@ -11,7 +11,7 @@ class CreateDTOCommand extends GeneratorCommand
      *
      * @var string
      */
-    protected $signature = 'make:dto {name} {--validatable}';
+    protected $signature = 'lto {name} {--validatable}';
 
     /**
      * The console command description.
